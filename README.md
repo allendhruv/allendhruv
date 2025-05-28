@@ -1,5 +1,5 @@
-# Hey there, I'm Aashna Joshi! 👋
-I'm a passionate Python developer focused on creating innovative solutions in Computer Vision, Automation, and Web Development. Check out my [WebFolio](https://aashnajoshi.github.io/) to learn more about my work. I'm eager to explore new technologies, collaborate on impactful projects, and connect with others in the tech community. Let's build something amazing together! 😊
+# Hey there, I'm Dhruv! 👋
+I'm a passionate Python developer focused on creating innovative solutions in Computer Vision, Automation, and Web Development. Check out my [WebFolio](https://allendhruv.github.io/) to learn more about my work. I'm eager to explore new technologies, collaborate on impactful projects, and connect with others in the tech community. Let's build something amazing together! 😊
 
 ## Skills
 - **Programming Languages**: <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3Aaashnajoshi+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
