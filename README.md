@@ -2,7 +2,7 @@
 I'm a passionate Python developer focused on creating innovative solutions in Computer Vision, Automation, and Web Development. Check out my [WebFolio](https://allendhruv.github.io/) to learn more about my work. I'm eager to explore new technologies, collaborate on impactful projects, and connect with others in the tech community. Let's build something amazing together! 😊
 
 ## Skills
-- **Programming Languages**: <a href="https://github.com/search?q=user%3allendhruv+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+- **Programming Languages**: <a href="https://github.com/search?q=user%3allendhruv+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> 
 
 - **Frameworks**: <a href="https://github.com/search?q=user%3allendhruv+django"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a><a href="https://github.com/search?q=user%3Aaashnajoshi+flask">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
@@ -23,7 +23,7 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 
 - **Cloud Services**: <a href="https://github.com/search?q=user%3allendhruv+aws"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+azure"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoftazure&logoColor=white"></a>
 
-- **Cloud Deployment & Hosting**: <a href="https://github.com/search?q=user%3allendhruv+heroku"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+github+pages"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+- **Cloud Deployment & Hosting**: <a href="https://github.com/search?q=user%3allendhruv+github+pages"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 
 - **Version Control**: <a href="https://github.com/search?q=user%3allendhruv+git"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
