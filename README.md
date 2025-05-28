@@ -27,10 +27,9 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 
 🎵 **[MoodBeats](https://github.com/aashnajoshi/MoodBeats)**: A creative Music Recommendation system that detects user emotions via webcam in real-time and plays matching YouTube songs from curated CSV playlists (e.g., Happy, Sad). Developed using **Python**, **TensorFlow**, and **NumPy**, with **AWS** for cloud processing. This project showcases my passion for Computer Vision and cloud solutions.
 
-[View all projects ➺](https://github.com/aashnajoshi?tab=repositories)
+[View all projects ➺](https://github.com/allendhruv?tab=repositories).
 
 ## Contact Me
 <a href="mailto:dhruvsolankigi@gmail.com"><img alt="Gmail" width="32" src="https://img.icons8.com/color/48/gmail-new.png"></a><a href="https://www.linkedin.com/in/mrdhruvsolanki/"><img alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=aashnajoshi&theme=holi-theme)](https://git.io/streak-stats)
+
