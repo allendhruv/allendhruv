@@ -21,11 +21,11 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 - **Version Control**: <a href="https://github.com/search?q=user%3Aaashnajoshi+git"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 ## Projects
-🎥 **[VidStream](https://github.com/aashnajoshi/VidStream)**: A Django-based video streaming app that lets users sign up, upload, and watch videos with a sleek video gallery and secure authentication. Built with **Python**, **PostgreSQL**, **HTML**, **CSS**, and **Bootstrap**, deployed on **Heroku**. This project highlights my skills in web development and database integration.
+🌿**[AI-Plant Doctor](https://github.com/allendhruv/AI-Plant-Doctor)**: Diagnose Plant Diseases with a Click! AI Plant Doctor is a smart web-based application built using Flask and Deep Learning that helps farmers, gardeners, and plant lovers detect plant leaf diseases instantly from uploaded images. Just upload a photo of a leaf, and the AI model will predict the disease (if any) and suggest actionable solutions to treat it.
 
-🌸 **[Flower-Recognizer](https://github.com/aashnajoshi/Flower-Recognizer)**: A Deep Learning model that classifies flower images (e.g., Rose, Sunflower, Tulip) with real-time image upload and classification capabilities. Developed using **Python**, **TensorFlow**, and **NumPy**. This project showcases my passion for Computer Vision and machine learning.
+🔍**[AI-Story-maker](https://github.com/allendhruv/AI-Plant-Doctor)**:This project extracts key product specifications such as dimensions, weight, volume, voltage, and wattage directly from product images using Azure AI Vision OCR and intelligent text analysis.
 
-🎵 **[MoodBeats](https://github.com/aashnajoshi/MoodBeats)**: A creative Music Recommendation system that detects user emotions via webcam in real-time and plays matching YouTube songs from curated CSV playlists (e.g., Happy, Sad). Developed using **Python**, **TensorFlow**, and **NumPy**, with **AWS** for cloud processing. This project showcases my passion for Computer Vision and cloud solutions.
+🎵 **[Song Recommendation](https://github.com/allendhruv/Song-recommendation)**: A creative Music Recommendation system that detects user emotions via webcam in real-time and plays matching YouTube songs from curated CSV playlists (e.g., Happy, Sad). Developed using **Python**, **TensorFlow**, and **NumPy**. This project showcases my passion for Computer Vision and cloud solutions.
 
 [View all projects ➺](https://github.com/allendhruv?tab=repositories).
 
