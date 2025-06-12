@@ -10,9 +10,9 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 
 - **Libraries**: <a href="https://github.com/search?q=user%3aallendhruv+numpy"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+pandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+tensorflow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+opencv"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
 
-- **Tools**: <a href="https://github.com/search?q=user%3aallendhruv+jupyter"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+visual+studio+code"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+powerbi">
+- **Tools**: <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> 
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black">
-</a>
+  
 
 
 - **Web Technologies**: <a href="https://github.com/search?q=user%3aallendhruv+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><a href="https://github.com/search?q=user%3aallendhruv+php">
