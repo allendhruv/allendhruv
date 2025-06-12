@@ -37,6 +37,6 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 [View all projects ➺] (https://github.com/allendhruv?tab=repositories).
 
 ## Contact Me
-<a href="mailto:dhruvsolankigi@gmail.com"><img alt="Gmail" width="32" src="https://img.icons8.com/color/48/gmail-new.png"></a> <a href="https://www.linkedin.com/in/mrdhruvsolanki/"><img alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="mailto:dhruvsolankigi@gmail.com"><img alt="Gmail" width="32" src="https://img.icons8.com/color/48/gmail-new.png"></a>   <a href="https://www.linkedin.com/in/mrdhruvsolanki/"><img alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
 
