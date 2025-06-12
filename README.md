@@ -4,9 +4,7 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 ## Skills
 - **Programming Languages**: <a href="https://github.com/search?q=user%3aallendhruv+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> 
 
-- **Frameworks**: <a href="https://github.com/search?q=user%3aallendhruv+django"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a><a href="https://github.com/search?q=user%3aallendhruv+flask">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-</a><a href="https://github.com/search?q=user%3aallendhruv+bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+- **Frameworks**: <a href="https://github.com/search?q=user%3aallendhruv+django"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a><a href="https://github.com/search?q=user%3aallendhruv+flask"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a><a href="https://github.com/search?q=user%3aallendhruv+bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
 - **Libraries**: <a href="https://github.com/search?q=user%3aallendhruv+numpy"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+pandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+tensorflow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a> <a href="https://github.com/search?q=user%3aallendhruv+opencv"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
 
