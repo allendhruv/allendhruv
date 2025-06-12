@@ -4,7 +4,7 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 ## Skills
 - **Programming Languages**: <a href="https://github.com/search?q=user%3allendhruv+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> 
 
-- **Frameworks**: <a href="https://github.com/search?q=user%3allendhruv+django"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a><a href="https://github.com/search?q=user%3Aaashnajoshi+flask">
+- **Frameworks**: <a href="https://github.com/search?q=user%3allendhruv+django"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a><a href="https://github.com/search?q=user%3allendhruv+flask">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
 </a><a href="https://github.com/search?q=user%3allendhruv+bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
@@ -15,7 +15,7 @@ I'm a passionate Python developer focused on creating innovative solutions in Co
 </a>
 
 
-- **Web Technologies**: <a href="https://github.com/search?q=user%3allendhruv+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><a href="https://github.com/search?q=user%3Aaashnajoshi+php">
+- **Web Technologies**: <a href="https://github.com/search?q=user%3allendhruv+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> <a href="https://github.com/search?q=user%3allendhruv+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a><a href="https://github.com/search?q=user%3allendhruv+php">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 
 
